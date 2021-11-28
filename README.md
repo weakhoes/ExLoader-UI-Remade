@@ -1,5 +1,3 @@
-#ExLoader Remade
-
 Important Notices And Announcements
 ------------------------------------------------------------------------------------------------------------
 - Application Is Not Finished More Updates Will Come So Star Or Watch This Project
